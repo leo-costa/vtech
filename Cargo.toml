@@ -1,0 +1,9 @@
+[package]
+name = "vtech"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/leo-costa/vtech"
+description = "A vtech crate"
+license = "MIT"
+
+[dependencies]
